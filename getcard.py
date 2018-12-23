@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import mtgsdk
 
 from mtgsdk import Card
 from mtgsdk import Set
